@@ -1,7 +1,7 @@
 apiVersion: "sparkoperator.k8s.io/v1beta2"
 kind: SparkApplication
 metadata:
-  name: gcp-spark-pi
+  name: gcp-spark-pi2
   namespace: default
 spec:
   type: Scala
